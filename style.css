@@ -1,0 +1,19 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.background
+{
+    position: absolute;
+    bottom: 100px;
+    top: 0;
+    object-fit:fit;
+    z-index: -1;
+}
+.heading
+{
+    text-align: center;
+    padding: 60px;
+    color: cadetblue;
+}
